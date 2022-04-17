@@ -11,6 +11,6 @@
 <?php else : ?>
 Вы не авторизованы<br/>
 <a href="/login.php">Авторизация</a>
-<a href="/signup.php">Регистрация</a>
+<a href="/signup.php">Регистращщщщция</a>
 <?php endif; ?>
 
